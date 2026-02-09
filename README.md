@@ -1,20 +1,28 @@
-# Retail Sales Performance Dashboard
+# Sales KPI Analysis Dashboard
 
 ## Overview
-Built an interactive Excel dashboard to analyze monthly sales performance, regional revenue contribution, and KPI trends.
+This project analyzes sales performance across countries, products, and sales representatives using an interactive Excel dashboard.
+
+## Key Features
+- Total Revenue KPI
+- Average Monthly Revenue
+- Top Sales Representative (by revenue)
+- Biggest Buyer (Country by revenue)
+- Most Popular Product (by quantity sold)
+- Interactive slicers (Month, Country, Product, Sales Person)
+- Revenue and Quantity trend analysis
 
 ## Tools Used
 - Microsoft Excel
 - Pivot Tables
 - Slicers
-- Conditional Formatting
+- GETPIVOTDATA
+- KPI Cards using Shapes
 
-## Key KPIs
-- Total Revenue
-- Monthly Sales Trend
-- Region-wise Contribution
-- Top Performing Categories
+## Dashboard Preview
+![Dashboard Preview](Sales_KPI_Analysis_Dashboard_Screenshot.png)
 
 ## Insights
-- Identified highest revenue region
-- Observed seasonal variation in sales
+- Australia contributes the highest revenue share.
+- Raspberry Choco is the most popular product by quantity.
+- Revenue peaks in March driven by top-performing sales reps.
